@@ -2,10 +2,10 @@
   "packagename_new_app": "",
   "base_url": "https://api.alphacoders.com/",
   "api_key": "e2f57725110f3a7493ac56377648f9d6",
-  "interval_interstitial": 2,
+  "interval_interstitial": 3,
   "unity": [
     {
-      "id_app": "",
+      "id_app": "5160857",
       "banner": "Banner_Android",
       "interstitial": "Interstitial_Android"
     }
